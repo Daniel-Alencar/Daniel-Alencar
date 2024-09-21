@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hello there 👋! Meu nome é Daniel Alencar
 
-<!--
-**Daniel-Alencar/Daniel-Alencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com desenvolvimento de aviônicas para foguetes-modelo
+- 🌱 Estudando Flutter, Swift e Power BI
+- 💬 Contate-me no email: danielalencar746@gmail.com
 
-Here are some ideas to get you started:
+![GitHub](https://github-readme-stats.vercel.app/api?username=Daniel-Alencar&show_icons=true&theme=dracula)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Alencar&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="30" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="30" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" width="40"/>  
+</div>
+
+![Snake animation](https://github.com/Daniel-Alencar/Daniel-Alencar/blob/output/github-contribution-grid-snake.svg)
