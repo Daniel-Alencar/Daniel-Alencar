@@ -21,7 +21,7 @@
 ##
 
 <div> 
-  <a href="https://instagram.com/Daniel-Alencar" target="_blank">
+  <a href="https://instagram.com/daniel_alencar_" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href = "mailto:danielalencar746@gmail.com">
