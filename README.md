@@ -1,6 +1,6 @@
 ## Hello there 👋! Meu nome é Daniel Alencar
 
-- 🔭 Hoje trabalho com desenvolvimento de aviônicas para foguetes-modelo
+- 🔭 Hoje trabalho com desenvolvimento de aviônicas para foguetes-modelo e no desenvolvimento de aplicações web e mobile
 - 🌱 Estudando Sistemas de controle aplicado em drones e raspberry pi pico w
 - 💬 Contate-me no email: danielalencar746@gmail.com
 
