@@ -1,7 +1,7 @@
 ## Hello there 👋! Meu nome é Daniel Alencar
 
 - 🔭 Hoje trabalho com desenvolvimento de aviônicas para foguetes-modelo
-- 🌱 Estudando Sistemas de controle aplicado em drones
+- 🌱 Estudando Sistemas de controle aplicado em drones e raspberry pi pico w
 - 💬 Contate-me no email: danielalencar746@gmail.com
 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Alencar&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
