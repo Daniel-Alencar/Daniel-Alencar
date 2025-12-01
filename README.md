@@ -1,21 +1,14 @@
-## Hello there 👋! Meu nome é Daniel Alencar
+## Hello there 👋! My name is Daniel Alencar
 
-- 🔭 Hoje trabalho com desenvolvimento de aviônicas para foguetes-modelo e no desenvolvimento de aplicações web e mobile
-- 🌱 Estudando Sistemas de controle aplicado em drones e raspberry pi pico w
-- 💬 Contate-me no email: danielalencar746@gmail.com
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Alencar&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub](https://github-readme-stats.vercel.app/api?username=Daniel-Alencar&show_icons=true&theme=dracula)
+- 🔭 Today I work on avionics development for model rockets and embedded systems in the Embarcatech residency program.
+- 🌱 I’m studying UAV simulations and FPGA development.
+- 💬 Email: danielalencar746@gmail.com
 
 <div style="display: inline_block"><br>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" width="40"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="30" width="40"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="30" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" width="40"/>  
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30" width="40"/>
 </div>
 
 ##
